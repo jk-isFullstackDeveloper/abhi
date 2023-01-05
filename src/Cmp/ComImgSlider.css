@@ -1,0 +1,22 @@
+.sliderDiv {
+    margin-left: 7%;
+    margin-right: 7%;
+    height: 580px;
+    background-image: url('https://staticassetsrce.s3.amazonaws.com/wp-content/uploads/2018/05/01.jpg');
+    background-size: 100% 100%;
+    animation: slider 12s infinite linear;
+}
+
+@keyframes slider {
+    0% {
+        background-image: url('https://staticassetsrce.s3.amazonaws.com/wp-content/uploads/2018/05/01.jpg');
+    }
+
+    33% {
+        background-image: url('https://staticassetsrce.s3.amazonaws.com/wp-content/uploads/2021/05/02.jpg');
+    }
+
+    67% {
+        background-image: url('https://staticassetsrce.s3.amazonaws.com/wp-content/uploads/2021/05/03.jpg');
+    }
+}

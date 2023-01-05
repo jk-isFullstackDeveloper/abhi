@@ -1,0 +1,28 @@
+.card {
+    width: 31%;
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Abhi{
+    margin:1% 30%;
+}
+
+.cardHead {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-top: 1%;
+    font-size: xx-large;
+    width: 100%;
+}
+.cardDetails {
+    text-align: justify;
+    overflow-wrap: break-word;
+    margin:2%;
+    font-size: 17px;
+    line-height: 1.5;
+    font-weight: 500;
+    color: white;
+}

@@ -1,0 +1,21 @@
+option{
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+    margin-top: 1%;
+}
+
+.searchbox , .movielist{
+    margin-left: 1%;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    outline: none;
+    border: 1px solid white;
+}
+
+.searchbox {
+    width: 13.5%;
+}

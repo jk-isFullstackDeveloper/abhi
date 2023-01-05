@@ -1,0 +1,21 @@
+input ,textarea,button{
+    background: rgb(0, 0, 0);
+    color: white;
+    border-bottom: 2px solid red;
+    padding: 7px;
+    outline: none;
+    font-size: 14px;
+    margin: 1.5% 8%;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 81%;
+}
+
+textarea {
+    height: 170px;
+}
+
+button {
+    width: 30%; 
+    border: 2px solid red;
+}
