@@ -1,5 +1,3 @@
-import newsData from "./NewsData";
-
 const NewsCard = (prop) => {
   return (
     <>
