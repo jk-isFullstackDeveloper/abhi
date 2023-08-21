@@ -15,7 +15,8 @@ const Menu = () => {
       />
 
       <div id="sidebarMenu">
-        <ul className="menu">
+        jitendra
+        {/* <ul className="menu">
           <li>
             <a href="#">HOME</a>
           </li>
@@ -37,7 +38,7 @@ const Menu = () => {
           <li>
             <a href="#">CONNECT</a>
           </li>
-        </ul>
+        </ul> */}
       </div>
     </>
   );

@@ -8,13 +8,14 @@ const Blob = () => {
 
       {/* Page link area */}
       <p className="BlinkArea">
-        <a className="HomeLink" href="#">
+        Home
+        {/* <a className="HomeLink" href="#">
           Home
         </a>
         {">>"}
         <a className="BlobLink" href="#">
           Blob
-        </a>
+        </a> */}
       </p>
 
       {/* Search Area */}
