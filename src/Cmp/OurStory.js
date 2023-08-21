@@ -54,6 +54,7 @@ const OurStory = () => {
           entertains but also offers an enriching experience to the audience.
         </p>
         <img
+          alt="jitendra"
           className="pic"
           src="https://staticassetsrce.s3.amazonaws.com/wp-content/uploads/2018/10/srk.jpg"
         />
