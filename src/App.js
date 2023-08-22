@@ -34,6 +34,17 @@ const orgChart = {
             },
           ],
         },
+        {
+          name: "Foreman",
+          attributes: {
+            department: "Assembly",
+          },
+          children: [
+            {
+              name: "Worker",
+            },
+          ],
+        },
       ],
     },
   ],
