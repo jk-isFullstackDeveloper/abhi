@@ -7,7 +7,7 @@ const orgChart = {
   name: "CEO jitendra",
   children: [
     {
-      name: "Manager",
+      name: "jitendra",
       attributes: {
         department: "Production",
       },
