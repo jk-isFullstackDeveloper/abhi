@@ -1,0 +1,546 @@
+{
+  "value": {
+    "projectId": 1081,
+    "teamTypeID": 1,
+    "teamTypeName": "Project",
+    "teamTypeDesc": "Project Team",
+    "roleCategoryCode": "I",
+    "roleCategoryName": "Investment",
+    "roleCategoryDesc": "Investment level",
+    "roleLevels": [
+      {
+        "roleLevelId": 1,
+        "roleLevelName": "Core",
+        "roleLevelDesc": "Core Team",
+        "roles": [
+          {
+            "roleId": 16,
+            "roleName": "Investment Officer - New Business",
+            "roleDesc": "Investment Officer - New Business",
+            "investmentDisplayOrder": 1,
+            "maxProxyLimit": 6,
+            "investment_max_primary_limit": 1,
+            "primary": [
+              {
+                "upiNumber": 82380,
+                "lastName": "Fakhoury",
+                "firstName": "Deema",
+                "officePhoneNumber": "F 10K-E 54",
+                "phoneNumber": "4731394",
+                "email": "Dfakhoury@ifc.org",
+                "titleName": "Director",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Deema Fakhoury",
+                "teamId": 429421,
+                "uniqueId": "02da5dbaf467472ab0c6c7a6ada3c8c4"
+              }
+            ],
+            "proxy": [
+              {
+                "upiNumber": 295969,
+                "lastName": "Lilliehook",
+                "firstName": "Gustaf Sigge",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Investment Officer",
+                "activeInd": "N",
+                "firstNameAndLastName": "Gustaf Sigge Lilliehook",
+                "teamId": 481542,
+                "uniqueId": "287686a3ba0c472396a2e50585b52afc"
+              },
+              {
+                "upiNumber": 343279,
+                "lastName": "Trbonja",
+                "firstName": "Nedim",
+                "officePhoneNumber": "F 9K-123",
+                "phoneNumber": "458-8128",
+                "email": "NTrbonja@ifc.org",
+                "titleName": "Investment Officer",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Nedim Trbonja",
+                "teamId": 684839,
+                "uniqueId": "0262fe90312a4c9ab256786228120bdd"
+              }
+            ]
+          },
+          {
+            "roleId": 2,
+            "roleName": "Investment Officer - Portfolio",
+            "roleDesc": "Investment Officer - Portfolio",
+            "investmentDisplayOrder": 4,
+            "maxProxyLimit": 6,
+            "investment_max_primary_limit": 1,
+            "primary": [
+              {
+                "upiNumber": 92361,
+                "lastName": "Vos",
+                "firstName": "Louis M.",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Principal Investment Officer",
+                "activeInd": "N",
+                "firstNameAndLastName": "Louis M. Vos",
+                "teamId": 190100,
+                "uniqueId": "4137f5aeb6364fada3eb981097349fea"
+              }
+            ],
+            "proxy": [
+              {
+                "upiNumber": 345602,
+                "lastName": "Brunner",
+                "firstName": "Simone Gisela",
+                "officePhoneNumber": "12FL",
+                "phoneNumber": "7592 8423",
+                "email": "sbrunner1@ifc.org",
+                "titleName": "Investment Officer",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Simone Gisela Brunner",
+                "teamId": 446097,
+                "uniqueId": "32107b648a0748619e5472a753ca44d3"
+              },
+              {
+                "upiNumber": 22986,
+                "lastName": "Winder",
+                "firstName": "Liliana E.",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Language Program Assistant",
+                "activeInd": "N",
+                "firstNameAndLastName": "Liliana E. Winder",
+                "teamId": 453126,
+                "uniqueId": "c9578ce7eee842b88ee74fae29639e96"
+              },
+              {
+                "upiNumber": 303098,
+                "lastName": "Walker",
+                "firstName": "Warlinda C.",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Portfolio Officer/Equity Research",
+                "activeInd": "N",
+                "firstNameAndLastName": "Warlinda C. Walker",
+                "teamId": 999358,
+                "uniqueId": "fb76a5cb7fbf42bb8d521131e50cfc0e"
+              },
+              {
+                "upiNumber": 316676,
+                "lastName": "Krusius",
+                "firstName": "Jennifer Lee",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Associate",
+                "activeInd": "N",
+                "firstNameAndLastName": "Jennifer Lee Krusius",
+                "teamId": 1075004,
+                "uniqueId": "5cc924791f18441687bd56102831a274"
+              }
+            ]
+          },
+          {
+            "roleId": 25,
+            "roleName": "Syndication Officer - New Business",
+            "roleDesc": "Syndication Officer - New Business",
+            "investmentDisplayOrder": 5,
+            "maxProxyLimit": 10,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 6,
+            "roleName": "Syndication Officer - Portfolio",
+            "roleDesc": "Syndication Officer - Portfolio",
+            "investmentDisplayOrder": 6,
+            "maxProxyLimit": 10,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 27,
+            "roleName": "Syndication Assistant",
+            "roleDesc": "Syndication Assistant",
+            "investmentDisplayOrder": 7,
+            "maxProxyLimit": 10,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 28,
+            "roleName": "Treasury Officer",
+            "roleDesc": "Treasury Officer",
+            "investmentDisplayOrder": 8,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 29,
+            "roleName": "Structured Product Officer",
+            "roleDesc": "Structured Product Officer",
+            "investmentDisplayOrder": 9,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 20,
+            "roleName": "Insurance Specialist",
+            "roleDesc": "Insurance Specialist",
+            "investmentDisplayOrder": 12,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [
+              {
+                "upiNumber": 259439,
+                "lastName": "Mumenthaler",
+                "firstName": "Jan P.",
+                "officePhoneNumber": "",
+                "phoneNumber": "6866543",
+                "email": "JMumenthaler@ifc.org",
+                "titleName": "Senior Insurance Officer",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Jan P. Mumenthaler",
+                "teamId": 1414,
+                "uniqueId": "322f570a92ce4ba2b0b8cec7a9c32ca3"
+              }
+            ],
+            "proxy": [
+              {
+                "upiNumber": 293203,
+                "lastName": "He",
+                "firstName": "Xiaoyan",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Financial Operations Officer, IFC",
+                "activeInd": "N",
+                "firstNameAndLastName": "Xiaoyan He",
+                "teamId": 1115261,
+                "uniqueId": "be22ace114f24e069ddeb2e5aa298a8c"
+              }
+            ]
+          },
+          {
+            "roleId": 5,
+            "roleName": "Credit Officer",
+            "roleDesc": "Credit Officer",
+            "investmentDisplayOrder": 12,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [
+              {
+                "upiNumber": 211800,
+                "lastName": "Caloia",
+                "firstName": "Giuliano",
+                "officePhoneNumber": "F 6P-278",
+                "phoneNumber": "458-8079",
+                "email": "gcaloia@ifc.org",
+                "titleName": "Regional Chief Risk Officer",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Giuliano Caloia",
+                "teamId": 75106,
+                "uniqueId": "38a4d200747a4c3893eb863c1ad532af"
+              }
+            ],
+            "proxy": [
+              {
+                "upiNumber": 293203,
+                "lastName": "He",
+                "firstName": "Xiaoyan",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Financial Operations Officer, IFC",
+                "activeInd": "N",
+                "firstNameAndLastName": "Xiaoyan He",
+                "teamId": 1115261,
+                "uniqueId": "be22ace114f24e069ddeb2e5aa298a8c"
+              }
+            ]
+          },
+          {
+            "roleId": 15,
+            "roleName": "E&S Risk Officer",
+            "roleDesc": "E&S Risk Officer",
+            "investmentDisplayOrder": 13,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 34,
+            "roleName": "CEQ Officer",
+            "roleDesc": "CEQ Officer",
+            "investmentDisplayOrder": 14,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 35,
+            "roleName": "Equity Specialist",
+            "roleDesc": "Equity Specialist",
+            "investmentDisplayOrder": 15,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 37,
+            "roleName": "Fin. Oper (FOU) Officer",
+            "roleDesc": "Fin. Oper (FOU) Officer",
+            "investmentDisplayOrder": 16,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [
+              {
+                "upiNumber": 16314,
+                "lastName": "Nocon",
+                "firstName": "Susan O.",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Senior Financial Operations Officer",
+                "activeInd": "N",
+                "firstNameAndLastName": "Susan O. Nocon",
+                "teamId": 837730,
+                "uniqueId": "3158fb4d842746b9986f8ac2e0ac28ed"
+              }
+            ],
+            "proxy": [
+              {
+                "upiNumber": 293203,
+                "lastName": "He",
+                "firstName": "Xiaoyan",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Financial Operations Officer, IFC",
+                "activeInd": "N",
+                "firstNameAndLastName": "Xiaoyan He",
+                "teamId": 1115261,
+                "uniqueId": "be22ace114f24e069ddeb2e5aa298a8c"
+              },
+              {
+                "upiNumber": 172800,
+                "lastName": "Chiperfield",
+                "firstName": "Julia Isabel",
+                "officePhoneNumber": "F 5P-281",
+                "phoneNumber": "473-4036",
+                "email": "jchiperfield@ifc.org",
+                "titleName": "Associate Financial Operations Officer",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Julia Isabel Chiperfield",
+                "teamId": 127159,
+                "uniqueId": "36c30e03ba4549829754536513569d5f"
+              },
+              {
+                "upiNumber": 107123,
+                "lastName": "Kannanaikkel",
+                "firstName": "Joy",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Financial Operations Officer",
+                "activeInd": "N",
+                "firstNameAndLastName": "Joy Kannanaikkel",
+                "teamId": 181993,
+                "uniqueId": "bff3749892dc43ef8a14acb30161ecd4"
+              },
+              {
+                "upiNumber": 218673,
+                "lastName": "Gimeno",
+                "firstName": "Leonita A.",
+                "officePhoneNumber": "F 5P-266",
+                "phoneNumber": "458-7725",
+                "email": "lgimeno@ifc.org",
+                "titleName": "Financial Operations Officer",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Leonita A. Gimeno",
+                "teamId": 188212,
+                "uniqueId": "f90ea5583050450eb762b722726ec108"
+              },
+              {
+                "upiNumber": 278012,
+                "lastName": "Riggs",
+                "firstName": "Thomas Scott",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Consultant",
+                "activeInd": "N",
+                "firstNameAndLastName": "Thomas Scott Riggs",
+                "teamId": 483100,
+                "uniqueId": "4e4575f072124f06918b83562db999d3"
+              },
+              {
+                "upiNumber": 299201,
+                "lastName": "Phan",
+                "firstName": "Cuong Manh",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Financial Operations Analyst, IFC",
+                "activeInd": "N",
+                "firstNameAndLastName": "Cuong Manh Phan",
+                "teamId": 529239,
+                "uniqueId": "864dfe36ae08422496c041940c720880"
+              },
+              {
+                "upiNumber": 80026,
+                "lastName": "Flores",
+                "firstName": "Maria R.",
+                "officePhoneNumber": "F 5K-262",
+                "phoneNumber": "473-6002",
+                "email": "Mflores@ifc.org",
+                "titleName": "Senior Financial Operations Officer",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Maria R. Flores",
+                "teamId": 683944,
+                "uniqueId": "c8735e3de0e949799c46457ea9bae6d6"
+              },
+              {
+                "upiNumber": 294565,
+                "lastName": "Ergueta",
+                "firstName": "Pedro",
+                "officePhoneNumber": "F 5-K 310",
+                "phoneNumber": "458-7805",
+                "email": "PErgueta@ifc.org",
+                "titleName": "Associate Financial Operations Officer",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Pedro Ergueta",
+                "teamId": 748174,
+                "uniqueId": "735ddba992b249edabde3e6e4820798e"
+              }
+            ]
+          },
+          {
+            "roleId": 4,
+            "roleName": "Portfolio Assistant",
+            "roleDesc": "Portfolio Assistant",
+            "investmentDisplayOrder": 17,
+            "maxProxyLimit": 10,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": [
+              {
+                "upiNumber": 176899,
+                "lastName": "Amruthur",
+                "firstName": "Uma",
+                "officePhoneNumber": "F 8P-282 A",
+                "phoneNumber": "473-8976",
+                "email": "uamruthur@ifc.org",
+                "titleName": "Program Assistant",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Uma Amruthur",
+                "teamId": 575018,
+                "uniqueId": "ea5cd2012d2c4425897ba02588d4d38b"
+              },
+              {
+                "upiNumber": 18896,
+                "lastName": "Arnold",
+                "firstName": "Olga H.",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "",
+                "titleName": "Portfolio Assistant",
+                "activeInd": "N",
+                "firstNameAndLastName": "Olga H. Arnold",
+                "teamId": 684584,
+                "uniqueId": "816d4f3c108a433da9b3c91617897ff3"
+              },
+              {
+                "upiNumber": 301135,
+                "lastName": "Dolidze",
+                "firstName": "Irine",
+                "officePhoneNumber": "",
+                "phoneNumber": "",
+                "email": "IDolidze@ifc.org",
+                "titleName": "Temporary",
+                "activeInd": "Y",
+                "firstNameAndLastName": "Irine Dolidze",
+                "teamId": 820975,
+                "uniqueId": "b6338a974a494c878601df234012c8c4"
+              }
+            ]
+          },
+          {
+            "roleId": 40,
+            "roleName": "Risk Management Officer",
+            "roleDesc": "Risk Management Officer",
+            "investmentDisplayOrder": 19,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 41,
+            "roleName": "Corporate Governance Specialist",
+            "roleDesc": "Corporate Governance Specialist",
+            "investmentDisplayOrder": 20,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 21,
+            "roleName": "Insurance Assistant",
+            "roleDesc": "Insurance Assistant",
+            "investmentDisplayOrder": 21,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          },
+          {
+            "roleId": 76,
+            "roleName": "Project Originator",
+            "roleDesc": "Project Originator",
+            "investmentDisplayOrder": 24,
+            "maxProxyLimit": 0,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          }
+        ]
+      },
+      {
+        "roleLevelId": 3,
+        "roleLevelName": "Other/Extended",
+        "roleLevelDesc": "Other Interested Parties",
+        "roles": [
+          {
+            "roleId": 45,
+            "roleName": "Budget Officer",
+            "roleDesc": "Budget Officer",
+            "investmentDisplayOrder": 11,
+            "maxProxyLimit": 3,
+            "investment_max_primary_limit": 1,
+            "primary": [],
+            "proxy": []
+          }
+        ]
+      }
+    ]
+  },
+  "isSuccess": true,
+  "isFailure": false,
+  "error": {
+    "code": "",
+    "message": ""
+  }
+}
